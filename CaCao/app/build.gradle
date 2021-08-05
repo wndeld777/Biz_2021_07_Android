@@ -14,6 +14,8 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        targetSdkVersion 30
+        minSdkVersion 25
     }
 
     buildTypes {
@@ -26,6 +28,8 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    compileSdkVersion 30
+    buildToolsVersion '30.0.2'
 }
 
 dependencies {
@@ -37,6 +41,7 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:28.3.0')
     implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.google.firebase:firebase-database'
+    implementation 'androidx.preference:preference:1.1.1'
 
     testImplementation 'junit:junit:53'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'

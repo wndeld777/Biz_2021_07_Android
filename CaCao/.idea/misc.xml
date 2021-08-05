@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/bizworks/Android/CaCao/app/src/main/res/layout/activity_main.xml" value="0.17097264437689969" />
+        <entry key="..\:/bizworks/Android/CaCao/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/bizworks/Android/CaCao/app/src/main/res/layout/chatt_item.xml" value="0.2957427536231884" />
+        <entry key="..\:/bizworks/Android/CaCao/app/src/main/res/layout/settings_activity.xml" value="0.36770833333333336" />
+        <entry key="..\:/bizworks/Android/CaCao/app/src/main/res/menu/main_tool_menu.xml" value="0.36770833333333336" />
+        <entry key="..\:/bizworks/Android/CaCao/app/src/main/res/xml/root_preferences.xml" value="0.36770833333333336" />
       </map>
     </option>
   </component>
