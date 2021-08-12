@@ -22,7 +22,7 @@ public class RetrofitAPIClient {
      * 코드를 생성한다
      * @return
      */
-    public static NaverRetrofit getAPIClient(){
+    public static NaverRetrofit getApiClient(){
 
         NaverRetrofit naverRetrofit = getConnection().create(NaverRetrofit.class);
 

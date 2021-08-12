@@ -31,7 +31,7 @@ public interface NaverRetrofit {
      *          X-Naver-Client-Id=fdsafdsa 형식으로 요청을 한다
      * 3. method 에 end point 와 요청 method type 을 지정한다
      *      요청 method type : @GET, @POST, @PUT, @DELETE
-     * 4. openAPI 를 통해 데이터를 요청할때
+     * 4. openAPI 를 통해 데이터a를 요청할때
      *      값, 변수 등을 보내고 싶을때
      *      queryString 을 만드는데
      *      여기에서는 @Query() 를 사용하여 지정한다

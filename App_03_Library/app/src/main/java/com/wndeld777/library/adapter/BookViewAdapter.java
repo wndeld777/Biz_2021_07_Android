@@ -136,7 +136,7 @@ public class BookViewAdapter extends RecyclerView.Adapter {
      * 데이터 개수만큼 반복적으로 Holder 를 그려라 라는 값을 알려주는 method
      */
     public int getItemCount() {
-        return bookList == null ? 0 : bookList.size();
+        return bookList == null ?  0 : bookList.size();
     }
 
     /**

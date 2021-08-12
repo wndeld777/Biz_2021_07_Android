@@ -49,7 +49,7 @@ public class NaverBookServiceImplV1 implements NaverBookService {
          *      결과가 오면 변수에 담고
          *      이후에 처리하는 코드가 수행된다
          */
-        Call<NaverParent> retrofitReturn = RetrofitAPIClient.getAPIClient()
+        Call<NaverParent> retrofitReturn = RetrofitAPIClient.getApiClient()
                 .getBook(NaverAPI.CLIENT_ID,
                         NaverAPI.CLIENT_SECRET,
                         search,
