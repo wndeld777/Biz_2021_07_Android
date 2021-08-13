@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/bizworks/AndProject/project_my_movie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20260416666666667" />
+        <entry key="..\:/bizworks/AndProject/project_my_movie/app/src/main/res/drawable/ic_baseline_movie_24.xml" value="0.36041666666666666" />
         <entry key="..\:/bizworks/AndProject/project_my_movie/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/bizworks/AndProject/project_my_movie/app/src/main/res/layout/layout.xml" value="0.32155797101449274" />
+        <entry key="..\:/bizworks/AndProject/project_my_movie/app/src/main/res/layout/movie_item_view.xml" value="0.2" />
+        <entry key="..\:/bizworks/AndProject/project_my_movie/app/src/main/res/menu/main_appbar_menu.xml" value="0.22" />
       </map>
     </option>
   </component>
