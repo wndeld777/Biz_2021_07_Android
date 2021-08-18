@@ -6,7 +6,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.num5268.todolist"
+        applicationId 'com.num5268.todolist'
         minSdk 25
         targetSdk 30
         versionCode 1
