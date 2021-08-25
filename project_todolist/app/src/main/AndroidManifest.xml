@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Project_todolist">
         <activity
-            android:name=".HongActivity"
+            android:name=".CompActivity"
             android:parentActivityName=".MainActivity"
             android:exported="true" />
         <activity
